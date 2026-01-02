@@ -6,7 +6,7 @@
 
 ## 🚀 Proyectos a desarrollar
 
-- ⚙️ [Sistema de Gestión de Servicio Tecnico (en desarrollo)]([https://github.com/jhondermarin/service-manager])  
+- ⚙️ [Sistema de Gestión de Servicio Tecnico (en desarrollo)](https://github.com/jhondermarin/service-manager)  
   Sistema para registrar mantenimientos y control de equipos biomédicos.
 
 ## 🔧 Tecnologías
